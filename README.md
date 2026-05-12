@@ -1,6 +1,6 @@
 # Standards-HRC Paperclip Skills
 
-Skill bundles consumed by the Paperclip AI agent platform for **Standards Consultants (Standards-HRC)**.
+Skill bundles consumed by the Paperclip AI agent platform for **Standards**.
 
 ## Skills in this repo
 
