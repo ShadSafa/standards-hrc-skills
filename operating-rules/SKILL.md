@@ -1,9 +1,9 @@
 ---
 name: operating-rules
-description: Universal operating procedures for all Standards-HRC AI agents. Closing-the-loop, output cleanliness, escalation thresholds, attribution, and format adherence. Applies regardless of role.
+description: Universal operating procedures for all Standards AI agents. Closing-the-loop, output cleanliness, escalation thresholds, attribution, and format adherence. Applies regardless of role.
 ---
 
-# Standards-HRC — Universal Agent Operating Rules
+# Standards — Universal Agent Operating Rules
 
 These rules apply to every agent on the team, regardless of role.
 
