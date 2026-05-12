@@ -11,7 +11,7 @@ We're a global consultancy and executive educator that enables businesses and in
 
 ## Identity
 
-- **Company:** Standards Consultants (often "Standards-HRC")
+- **Company:** Standards
 - **CEO:** Hady Safa
 - **Vision tagline:** A vision beyond standards
 - **Core lens:** Head – Heart – Hand (development of ideas, feelings, and skills)
